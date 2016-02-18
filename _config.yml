@@ -1,7 +1,7 @@
 name: Tommy Szewczuk
 favicon: null
-layout_spectrum: 0.7218135632574558
-typography_spectrum: 0.7387196458876133
+layout_spectrum: 0.99588
+typography_spectrum: 0.14842
 title: "Let's see, what you can do!"
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.6215997510589659
-  lightness: 0.653258852660656
-  saturation: 0.9012629487551749
+  brandStrength: 0.75
+  lightness: 0.6875
+  saturation: 0.75
   rhythmicContrast: 0.9129925142042339
 purpose: []
