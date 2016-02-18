@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tommy Szewczuk]]></title>
+        <description><![CDATA[Tommy Szewczuk]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Feb 2016 11:24:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is my first Post]]></title>
+            <description><![CDATA[<article><h1>This is my first Post</h1><p>Hello world! I don't know, what to say! I am so excited!</p></article>]]></description>
+            <link>undefinedthis-is-my-first-post/index.html</link>
+            <guid isPermaLink="false">cd9b46a1-c6d9-4abf-8cc4-cb3bec90a2e7</guid>
+            <pubDate>Thu, 18 Feb 2016 11:23:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
