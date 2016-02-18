@@ -2,12 +2,13 @@ name: Tommy Szewczuk
 favicon: null
 layout_spectrum: 0.7218135632574558
 typography_spectrum: 0.7387196458876133
+title: "Let's see, what you can do!"
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-53062580-4
   facebook: null
   twitter: null
 opengraph:
