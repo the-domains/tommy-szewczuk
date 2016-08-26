@@ -1,20 +1,4 @@
-name: Tommy Szewczuk
-favicon: null
-layout_spectrum: 0.99869
 typography_spectrum: 0.13577
-title: "Let's see, what you can do!"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-53062580-4
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#16162b'
@@ -26,4 +10,24 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.9129925142042339
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.99869
+analytics:
+  google: UA-53062580-4
+  facebook: null
+  twitter: null
+name: Tommy Szewczuk
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: pskf
+    id: de9f8871-f988-49fe-ba0c-0abb8442dad5
+    type: content
+favicon: null
+title: 'Let''s see, what you can do!'
 purpose: []
